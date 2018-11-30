@@ -19,3 +19,13 @@ h1{
   text-align: left;
 
 }
+
+#orange{
+  position: relative;
+  left: 50%;
+  bottom: 90%;
+
+}
+.uu{
+  text-align: center;
+}
