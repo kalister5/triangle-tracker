@@ -1,22 +1,30 @@
-\#TRIANGLE-TRACKER
+#TRIANGLE-TRACKER
 
-this is a project enables you to input measurements in the  input space provided thats determines which type of triangle it is.
+this is a project enables you to input measurements in the  input space provided that will determines which type of triangle it is.
 
-\##Author name
+##Author name
 
 Abdullahi Mohamaud
 
-\##Project description
+##Project description
 
-this website that enables you to input measurements in the  input space provided thats determines which type of triangle it is either; equilateral , scalene or not triangle
+A web page that allows the user to input the lengths of the sides of a triangle, and returns whether these sides form an equilateral, isosceles, or scalene triangle or if the sides cannot make a triangle at all.
 
-\##technology used
+##technology used
 
-this website was built using hyper text markup language ,cascading styles sheet and JavaScript.
+I used HTML to develop the skeleton of the website as well as CSS to design a custom style sheet for the website.I used JavaScript to make the website functional so that people are able to input information and get feedback
 
 Target Audience-Everyone.
 
-\##project setup installation
+#known bugs
+
+So far no identified bugs but if you get any contact me on Gmail zainkalister@gmail.com
+
+## contact information
+
+if anyone has question or wants to contribute to the project the please contact me through #0796303066 or at  zainkalister@gmail.com 
+
+##project setup installation
 
 1.On GitHub, navigate to the main page of the repository.
 
@@ -32,11 +40,18 @@ Target Audience-Everyone.
 
 7.Press Enter. Your local clone will be created.
 
-\##live link
+##live link
 
-<https://kalister5.github.io/portfolio/>
+<https://kalister5.github.io/triangle-tracker/>
 
-\##license
+## Behavior Driven Development
+
+Given the user inputs three value numbers
+And the numbers can make any type of triangle specified
+when the user press the submit button
+then which type of triangle it is, is shown below
+
+##license
 MIT licence
 
 Copyright <YEAR> <COPYRIGHT HOLDER>
