@@ -46,13 +46,13 @@ if anyone has question or wants to contribute to the project the please contact 
 
 ## Behavior Driven Development
 
-Given the user inputs three value numbers
+Given the user inputs three value numbers.
 
-And the numbers can make any type of triangle specified
+And the numbers can make any type of triangle specified.
 
-when the user press the submit button
+When the user press the submit button.
 
-then which type of triangle it is, is shown below
+Then which type of triangle it is, is shown below.
 
 ##license
 MIT licence
