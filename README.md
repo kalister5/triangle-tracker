@@ -22,7 +22,7 @@ So far no identified bugs but if you get any contact me on Gmail zainkalister@gm
 
 ## contact information
 
-if anyone has question or wants to contribute to the project the please contact me through #0796303066 or at  zainkalister@gmail.com 
+if anyone has question or wants to contribute to the project the please contact me through #0796303066 or at  zainkalister@gmail.com
 
 ##project setup installation
 
@@ -47,8 +47,11 @@ if anyone has question or wants to contribute to the project the please contact 
 ## Behavior Driven Development
 
 Given the user inputs three value numbers
+
 And the numbers can make any type of triangle specified
+
 when the user press the submit button
+
 then which type of triangle it is, is shown below
 
 ##license
