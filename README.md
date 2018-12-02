@@ -1,23 +1,22 @@
-#TRIANGLE-TRACKER
+\#TRIANGLE-TRACKER
 
 this is a project enables you to input measurements in the  input space provided thats determines which type of triangle it is.
 
-##Author name
+\##Author name
 
 Abdullahi Mohamaud
 
-##Project description
+\##Project description
 
 this website that enables you to input measurements in the  input space provided thats determines which type of triangle it is either; equilateral , scalene or not triangle
 
-##technology used
+\##technology used
 
 this website was built using hyper text markup language ,cascading styles sheet and JavaScript.
 
 Target Audience-Everyone.
 
-
-##project setup installation
+\##project setup installation
 
 1.On GitHub, navigate to the main page of the repository.
 
@@ -33,12 +32,11 @@ Target Audience-Everyone.
 
 7.Press Enter. Your local clone will be created.
 
-##live link
+\##live link
 
-https://kalister5.github.io/portfolio/
+<https://kalister5.github.io/portfolio/>
 
-
-##license
+\##license
 MIT licence
 
 Copyright <YEAR> <COPYRIGHT HOLDER>
