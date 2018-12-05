@@ -10,21 +10,21 @@ Abdullahi Mohamaud
 
 A web page that allows the user to input the lengths of the sides of a triangle, and returns whether these sides form an equilateral, isosceles, or scalene triangle or if the sides cannot make a triangle at all.
 
-## technology used
+## Technology used
 
 I used HTML to develop the skeleton of the website as well as CSS to design a custom style sheet for the website.I used JavaScript to make the website functional so that people are able to input information and get feedback
 
 Target Audience-Everyone.
 
-# known bugs
+## Known bugs
 
-So far no identified bugs but if you get any contact me on Gmail zainkalister@gmail.com
+So far no identified bugs but if you get any contact me on Gmail at zainkalister@gmail.com
 
-## contact information
+## Contact information
 
 if anyone has question or wants to contribute to the project the please contact me through #0796303066 or at  zainkalister@gmail.com
 
-## project setup installation
+## Project setup installation
 
 1.On GitHub, navigate to the main page of the repository.
 
@@ -40,9 +40,9 @@ if anyone has question or wants to contribute to the project the please contact 
 
 7.Press Enter. Your local clone will be created.
 
-## live link
+## Live link
 
-<https://kalister5.github.io/triangle-tracker/>
+https://kalister5.github.io/triangle-tracker/
 
 ## Behavior Driven Development
 
@@ -54,13 +54,5 @@ When the user press the submit button.
 
 Then which type of triangle it is, is shown below.
 
-## license
-MIT licence
-
-Copyright <2018> <Abdillahi mohamud>
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## License
+MIT licence. Copyright (c) 2018 Abdillahi mohamud
