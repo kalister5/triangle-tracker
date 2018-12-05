@@ -25,8 +25,6 @@ else if(a != b && b!=c && c!=a ){
 }
 
 }
-
- function reset() {
+  function reset() {
    location.reload();
  }
- 

@@ -1,22 +1,22 @@
-#TRIANGLE-TRACKER
+# TRIANGLE-TRACKER
 
 this is a project enables you to input measurements in the  input space provided that will determines which type of triangle it is.
 
-##Author name
+## Author name
 
 Abdullahi Mohamaud
 
-##Project description
+## Project description
 
 A web page that allows the user to input the lengths of the sides of a triangle, and returns whether these sides form an equilateral, isosceles, or scalene triangle or if the sides cannot make a triangle at all.
 
-##technology used
+## technology used
 
 I used HTML to develop the skeleton of the website as well as CSS to design a custom style sheet for the website.I used JavaScript to make the website functional so that people are able to input information and get feedback
 
 Target Audience-Everyone.
 
-#known bugs
+# known bugs
 
 So far no identified bugs but if you get any contact me on Gmail zainkalister@gmail.com
 
@@ -24,7 +24,7 @@ So far no identified bugs but if you get any contact me on Gmail zainkalister@gm
 
 if anyone has question or wants to contribute to the project the please contact me through #0796303066 or at  zainkalister@gmail.com
 
-##project setup installation
+## project setup installation
 
 1.On GitHub, navigate to the main page of the repository.
 
@@ -40,7 +40,7 @@ if anyone has question or wants to contribute to the project the please contact 
 
 7.Press Enter. Your local clone will be created.
 
-##live link
+## live link
 
 <https://kalister5.github.io/triangle-tracker/>
 
@@ -54,7 +54,7 @@ When the user press the submit button.
 
 Then which type of triangle it is, is shown below.
 
-##license
+## license
 MIT licence
 
 Copyright <2018> <Abdillahi mohamud>
