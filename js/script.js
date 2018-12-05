@@ -11,20 +11,21 @@ function triangle() {
  }
 }
 function side(a,b,c) {
-if(a + b > c && b + c > a && c + a > b) {
-   display.innerHTML = "<p>not a triangle</p>"
-
-}else if(a === b && b === c && c === a) {
+if(a === b && b === c && c === a) {
   display.innerHTML = "<p>equilateral triangle</p>"
+}
+else if (a + b > c && b + c > a && c + a > b) {
+ display.innerHTML = "<p>scalene</p>"
 }
 else if(a === b || b === c || c === a) {
   display.innerHTML = "<p>isosceles</p>"
 }
-else if(a != b && b!=c && c!=a ){
-  display.innerHTML = "<p>scalene</p>"
+else {
+  display.innerHTML = "<p>not a triangle</p>"
 }
 
 }
-  function reset() {
+
+ function reset() {
    location.reload();
  }
